@@ -14,7 +14,6 @@ I love Open Source and Linux and I like to develop applications as well.
 2. Markup and Documentation
     1. LaTeX
     2. Markdown
-    3. HTML
 3. Misc
     1. GIMP
     2. Inkscape
