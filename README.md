@@ -11,6 +11,8 @@ I love Open Source and Linux and I like to develop applications as well.
     2. Ruby 
     3. C/C++
     4. Node.JS
+    5. ReactJs
+    6. MySQL
 2. Markup and Documentation
     1. LaTeX
     2. Markdown
@@ -23,8 +25,9 @@ I love Open Source and Linux and I like to develop applications as well.
 #### I am learning
 1. Julia
 2. Rust
-3. React + Electron
+3. Electron
 4. Software Packaging for Linux and Windows
+5. MongoDB
 
 #### You can also find me at 
 - [LinkedIn](https://linkedin.com/in/mridul-wadhwa-mw2000)
