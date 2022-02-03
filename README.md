@@ -19,15 +19,16 @@ I love Open Source and Linux and I like to develop applications as well.
 3. Misc
     1. GIMP
     2. Inkscape
-    3. Video Editing.
+    3. Video Editing
 
 #### I am learning
 1. Julia
 2. Rust
 3. Front-End Development
-4. Software Packaging for Linux and Windows
-5. DevSecOps
-6. Reverse Engineering
+4. UI/UX design
+5. Software Packaging for Linux and Windows
+6. DevSecOps
+7. Reverse Engineering
 
 #### You can also find me at 
 - [LinkedIn](https://linkedin.com/in/mridul-wadhwa-mw2000)
